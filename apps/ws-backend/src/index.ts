@@ -115,5 +115,5 @@ wss.on('connection', function(ws,request){
             
         });
 
-        ws.send('something')
+       
 })
